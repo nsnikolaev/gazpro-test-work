@@ -1,19 +1,7 @@
-# gazprom
+### Start Up in 5 steps
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. ```git clone https://github.com/nsnikolaev/gazpro-test-work.git```
+2. ```cd gazpro-test-work```
+3. ```npm i```
+4. ```npm run serve```
+5. Visit ```http://localhost:8080```
